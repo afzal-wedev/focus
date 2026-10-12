@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusBlock</string>
+    <string name="accessibility_description">FocusBlock watches which app or website is open so it can block the ones you chose. It does not read or store anything you type.</string>
+</resources>
